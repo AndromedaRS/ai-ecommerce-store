@@ -3,42 +3,42 @@ const products = [
         id: 1,
         name: "Laptop",
         price: 899,
-        image: "https://via.placeholder.com/250",
+        image: "https://www.dateks.lv/images/pic/1200/1200/134/2051.jpg",
         description: "Powerful laptop for work and study."
     },
     {
         id: 2,
         name: "Phone",
         price: 599,
-        image: "https://via.placeholder.com/250",
+        image: "https://images.philips.com/is/image/philipsconsumer/f11c3bb618c747b9a726b1be001e23ba?$pnglarge$&wid=1250",
         description: "Modern smartphone with great camera."
     },
     {
         id: 3,
         name: "Headphones",
         price: 99,
-        image: "https://via.placeholder.com/250",
+        image: "https://assets.kmart.com.au/transform/775971a6-509d-4b97-b09d-0c4455f96527/43499663-1?io=transform:fit,width:3840,height:4800&quality=90",
         description: "Wireless headphones."
     },
     {
         id: 4,
         name: "Keyboard",
         price: 49,
-        image: "https://via.placeholder.com/250",
+        image: "https://keychron.in/wp-content/uploads/2021/03/C3.png",
         description: "Mechanical keyboard."
     },
     {
         id: 5,
         name: "Mouse",
         price: 29,
-        image: "https://via.placeholder.com/250",
+        image: "https://eu.alogic.co/cdn/shop/files/EchelonWirelessMouse_Mac_1_v1.webp?v=1748336490&width=1200",
         description: "Wireless mouse."
     },
     {
         id: 6,
         name: "Monitor",
         price: 249,
-        image: "https://via.placeholder.com/250",
+        image: "https://misura.s11.cdn-upgates.com/_cache/b/9/b92a0bd9ccebe6b280d0d69dd39b7c2c-1-2-1499-1.jpg",
         description: "24-inch Full HD monitor."
     }
 ];
