@@ -1,3 +1,18 @@
+window.DD_LOGS.onReady(function () {
+    window.DD_LOGS.init({
+        clientToken: "pubc43df3795165f8e8033d780596a54ae4",
+        site: "datadoghq.eu",
+        service: "shopeasy",
+        env: "development",
+        version: "1.0.0",
+        forwardErrorsToLogs: true,
+        sessionSampleRate: 100
+    });
+
+    window.DD_LOGS.logger.info("ShopEasy started", {
+        page: window.location.pathname
+    });
+});
 const products = [
     {
         id: 1,
